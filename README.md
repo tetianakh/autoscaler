@@ -23,8 +23,8 @@ resource requests of a deployment based on the number of nodes in the Kubernetes
 
 Interested in autoscaling? Want to talk? Have questions, concerns or great ideas?
 
-Please join us on #sig-autoscaling at https://kubernetes.slack.com/, or join one
-of our weekly meetings.  See [the Kubernetes Community Repo](https://github.com/kubernetes/community/blob/master/sig-autoscaling/README.md) for more information.
+Please join us on #sig-autoscaling at https://kubernetes.slack.com/ (request an invite at https://slack.k8s.io/ to join the slack workspace), or join one
+of our weekly meetings. See [the Kubernetes Community Repo](https://github.com/kubernetes/community/blob/master/sig-autoscaling/README.md) for more information.
 
 ## Getting the Code
 
